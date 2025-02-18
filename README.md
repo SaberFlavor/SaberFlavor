@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1><b>Welcome to my GitHub page!</b></h1>
+<h2> I've created this page to:</h2>
+<p> Understand GitHub and how it works </p>
+<p> Create a place for my projects! </p>
+<h3> Reach me:</h3>
+<p> Pronouns: She/They</p>
+❤❤❤❤❤❤❤❤❤❤❤❤❤
