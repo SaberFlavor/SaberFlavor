@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 <p> Understand GitHub and how it works </p>
 <p> Create a place for my projects! </p>
 <h3> Reach me:</h3>
-<p> Pronouns: She/They</p>
 ❤❤❤❤❤❤❤❤❤❤❤❤❤
