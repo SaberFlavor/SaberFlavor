@@ -1,23 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**SaberFlavor/SaberFlavor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page!
 
-Here are some ideas to get you started:
+I've created this page to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Understand GitHub and how it works**
+- **Create a place for my projects!**
 
-<h1><b>Welcome to my GitHub page!</b></h1>
-<h2> I've created this page to:</h2>
-<p> Understand GitHub and how it works </p>
-<p> Create a place for my projects! </p>
-<h3> Reach me:</h3>
+## 🌟 About Me
+
+- 📚 Currently learning: <ins> Software Engineering @ UMC </ins>
+- 👯 Looking to collaborate on: <ins> Any Projects to Learn New Languages and Skills </ins>
+- 🌟 Favorite tools: <ins> MySQL and Python </ins>
+- 🎯 Goals: <ins> Learning Python, How to Use GitHub, and Other Useful Tools </ins>
+
+## 📫 Reach Me
+
+You can connect with me via:
+
+- [LinkedIn](https://www.linkedin.com/in/sadie-berry-168297350/)
+
+Thank you for visiting my GitHub page! Happy coding! 🚀
+
 ❤❤❤❤❤❤❤❤❤❤❤❤❤
