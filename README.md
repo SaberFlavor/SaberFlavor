@@ -9,7 +9,7 @@ I've created this page to:
 
 ## 🌟 About Me
 
-- 📚 Currently learning: <ins> Software Engineering @ UMC </ins>
+- 📚 Currently learning: <ins> Software Engineering @ U of M </ins>
 - 👯 Looking to collaborate on: <ins> Any Projects to Learn New Languages and Skills </ins>
 - 🌟 Favorite tools: <ins> MySQL and Python </ins>
 - 🎯 Goals: <ins> Learning Python, How to Use GitHub, and Other Useful Tools </ins>
