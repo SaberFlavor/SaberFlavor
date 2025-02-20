@@ -5,7 +5,7 @@ Welcome to my GitHub page!
 I've created this page to:
 
 - **Understand GitHub and how it works**
-- **Create a place for my projects!**
+- **Create a place for my projects**
 
 ## 🌟 About Me
 
@@ -20,6 +20,6 @@ You can connect with me via:
 
 - [LinkedIn](https://www.linkedin.com/in/sadie-berry-168297350/)
 
-Thank you for visiting my GitHub page! Happy coding! 🚀
+Thank you for visiting my GitHub page! It's a work in progress, but we love her.
 
 ❤❤❤❤❤❤❤❤❤❤❤❤❤
